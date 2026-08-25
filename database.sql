@@ -65,9 +65,10 @@ CREATE TABLE settings (
     description TEXT
 );
 
--- Inserta una configuración de prueba
+-- Inserta configuraciones de prueba
 INSERT INTO settings (key, value, description) VALUES 
-('site_name', 'Cyber Link Admin', 'El nombre que aparecerá en el portal');
+('site_name', 'Cyber Link Admin', 'El nombre que aparecerá en el portal'),
+('footer_credits', 'Desarrollado por E. Daniel Valencia de ADAVAM', 'Texto de créditos del desarrollador en el pie de página');
 
 -- Tabla Services (Catálogo)
 CREATE TABLE services (

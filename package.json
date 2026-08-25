@@ -1,14 +1,14 @@
 {
   "name": "cyber-link-admin-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend API para la plataforma Cyber Link - Desarrollado por E. Daniel Valencia de ADAVAM",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node --watch server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "E. Daniel Valencia (ADAVAM)",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {

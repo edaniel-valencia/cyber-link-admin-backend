@@ -84,3 +84,10 @@ El código fuente está estrictamente separado por responsabilidades, facilitand
 - **Cifrado de contraseñas:** Implementado mediante `bcrypt`.
 - **Sesiones sin estado (Stateless):** Mediante `JSON Web Tokens (JWT)`.
 - **Rutas estáticas seguras:** La carpeta `/uploads` está expuesta para visualizar comprobantes, limitando el tamaño máximo de carga desde el `uploadMiddleware`.
+
+---
+
+## 👨‍💻 Desarrollador y Créditos
+
+Desarrollado por **E. Daniel Valencia** de **ADAVAM**.
+
